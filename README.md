@@ -1,7 +1,6 @@
 # 💫 About Me:
 ## Name -Rai Harsh S.<br>## B-tech -Computer science <br>## Cs50 Introduction to database at Harvard.<br>## Cisco Python essential 1-2.<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansh_._0z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-rai-20732527a) 
 
