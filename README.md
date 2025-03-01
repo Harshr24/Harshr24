@@ -10,21 +10,6 @@ Aspiring Computer Science Engineer with a strong foundation in Java, Python, dat
 
 ---
 
-## Education
-**Bachelor of Technology in Computer Science**  
-Amrita Vishwa Vidyapeetham, Andhra Pradesh, India  
-2022 – 2026 | CGPA: 9.3/10  
-
-**Higher Secondary Certificate (HSC)**  
-EduNova, Gujarat, India  
-2022 | Score: 73%  
-
-**Indian Certificate of Secondary Education (ICSE)**  
-Seventh-Day Adventist Higher Secondary School, Gujarat, India  
-2020 | Score: 92%  
-
----
-
 ## Technical Skills
 - **Programming Languages:** Java, Python, C, JavaScript (with HTML, CSS)  
 - **Database Technologies:** MySQL, Oracle, DBMS, Excel, Tableau  
@@ -33,14 +18,11 @@ Seventh-Day Adventist Higher Secondary School, Gujarat, India
 ---
 
 ## Certifications
-- **Introduction to Databases with SQL** | Harvard  
+- **Introduction to Databases with SQL** | Harvard
+- **Introduction to Artifitial Intelligence with Python** | Harvard  
 - **Python Essentials, Introduction to Cybersecurity, Data Analytics Essentials** | Cisco  
-  *December 2023 - 2024*  
 - **Develop GenAI Apps via Gemini & Streamlit, Prompt Design in Vertex** | Google Skill Boot  
-  *August 2024*  
 - **Machine Learning, AWS Compute, Cloud Computing** | AWS Educate  
-  *August 2024*  
-  [VERIFICATION: Google: [GCSB Profile], Credly Profiles: [Profile 1], [Profile 2]]  
 
 ---
 
@@ -49,7 +31,6 @@ Seventh-Day Adventist Higher Secondary School, Gujarat, India
 - **Data Analysis using Excel & Python** [Verification Link Here]  
 - **Tata Cybersecurity Security Analyst** [Job Simulation]  
 - **Proficient in Gen AI Tools:** Microsoft Copilot, Claude AI, ChatGPT  
-  *April 2023 - March 2024*  
 
 ---
 
@@ -58,8 +39,7 @@ Seventh-Day Adventist Higher Secondary School, Gujarat, India
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ansh_._0z)  
+## 🌐 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-rai-20732527a)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Harshr24)
 
