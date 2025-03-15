@@ -12,7 +12,7 @@ Aspiring Computer Science Engineer with a strong foundation in Java, Python, dat
 
 ## Projects
 **SQL Project** | [GitHub Repository](https://github.com/Harshr24/SQL-Project)  
-**AI Project**  | [GitHub Repository](
+**AI Project**  | [GitHub Repository](https://github.com/Harshr24/CS50_SQL_Project)
 
 ---
 
