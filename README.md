@@ -10,32 +10,9 @@ Aspiring Computer Science Engineer with a strong foundation in Java, Python, dat
 
 ---
 
-## Technical Skills
-- **Programming Languages:** Java, Python, C, JavaScript (with HTML, CSS)  
-- **Database Technologies:** MySQL, Oracle, DBMS, Excel, Tableau  
-- **Core Skills:** Data Structures, Algorithmic Learning, Data Analysis, Critical Thinking  
-
----
-
-## Certifications
-- **Introduction to Databases with SQL** | Harvard
-- **Introduction to Artifitial Intelligence with Python** | Harvard  
-- **Python Essentials, Introduction to Cybersecurity, Data Analytics Essentials** | Cisco  
-- **Develop GenAI Apps via Gemini & Streamlit, Prompt Design in Vertex** | Google Skill Boot  
-- **Machine Learning, AWS Compute, Cloud Computing** | AWS Educate  
-
----
-
-## Additional Skills
-- **Workshop on Blockchain Technology & Applications** [Verification: Onedrive]  
-- **Data Analysis using Excel & Python** [Verification Link Here]  
-- **Tata Cybersecurity Security Analyst** [Job Simulation]  
-- **Proficient in Gen AI Tools:** Microsoft Copilot, Claude AI, ChatGPT  
-
----
-
 ## Projects
 **SQL Project** | [GitHub Repository](https://github.com/Harshr24/SQL-Project)  
+**AI Project**  | [GitHub Repository](
 
 ---
 
