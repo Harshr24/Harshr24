@@ -21,7 +21,7 @@ Aspiring Computer Science Engineer with a strong foundation in Java, Python, Dat
 ---
 
 ## INTERNSHIP
-#**Data Analysis and Software Developer**  |  **ISRO | Ahmedabad, Gujarat**
+# **Data Analysis and Software Developer**  |  **ISRO | Ahmedabad, Gujarat**
 
 - Designed and developed an production-grade analytical geospatial Crop Water Requirement (CWRₜ) estimation system using multi-source heterogenous large-scale spatio-temporal data (remote sensing rasters, time-series meteorological data, and structured tabular inputs).
 - Engineered system-level features like end-to-end modular Python data pipelines (Pandas, NumPy, Rasterio), with automated data ingestion via GEE APIs and MOSDAC web scraping, handling resolution mismatches, CRS inconsistencies, temporal gaps and missing data scenarios, and anomaly handling (outlier clipping, null imputation, boundary validation).
