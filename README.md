@@ -20,6 +20,18 @@ Aspiring Computer Science Engineer with a strong foundation in Java, Python, Dat
 - **Tools & Platforms:** Git, GitHub, Jupyter Notebook
 ---
 
+## INTERNSHIP
+#**Data Analysis and Software Developer**  |  **ISRO | Ahmedabad, Gujarat**
+
+- Designed and developed an production-grade analytical geospatial Crop Water Requirement (CWRₜ) estimation system using multi-source heterogenous large-scale spatio-temporal data (remote sensing rasters, time-series meteorological data, and structured tabular inputs).
+- Engineered system-level features like end-to-end modular Python data pipelines (Pandas, NumPy, Rasterio), with automated data ingestion via GEE APIs and MOSDAC web scraping, handling resolution mismatches, CRS inconsistencies, temporal gaps and missing data scenarios, and anomaly handling (outlier clipping, null imputation, boundary validation).
+- Implemented grid-based spatial analysis with 15-day rolling window statistical aggregates orchestration, to capture temporal dependencies and reduce noise.
+- Performed advanced feature engineering in near-real time using dynamic agronomic parameters, conducted exploratory and comparative statistical analysis to identify patterns, anomalies, and high-variance zones, combining deterministic models with data-derived coefficients to ensure explainability, domain validity and analytical robustness.
+- Developed analytical visualizations and GIS-compatible spatial dashboards using Matplotlib and GeoPandas (color scaling), translating complex multidimensional data into interpretable, decision-ready insights.
+- Delivered a structured analytically scalable and extensible decision-support system for irrigation optimization, supporting sustainable water management and improved crop productivity, with future predictive modeling use cases.
+
+---
+
 ## PROJECTS
 
 **DBMS** | github.com/Harshr24/CS50_SQL_Project  
