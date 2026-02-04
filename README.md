@@ -17,7 +17,7 @@ Aspiring Computer Science Engineer with a strong foundation in Java, Python, Dat
 - **Data Analysis:** Pandas, NumPy, Data Preprocessing  
 - **Databases:** MySQL, PostgreSQL, DBMS  
 - **Cybersecurity:** Network Intrusion Detection, Anomaly Detection  
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebook  
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook
 ---
 
 ## PROJECTS
@@ -33,6 +33,14 @@ Aspiring Computer Science Engineer with a strong foundation in Java, Python, Dat
 **Machine Learning & Cybersecurity** | github.com/Harshr24/Network_intrusion_detection  
 **Objective:** Developed a machine learning-based Network Intrusion Detection System (NIDS) to accurately identify malicious network traffic and enhance cybersecurity threat detection.  
 **Methodology:** Applied data preprocessing, feature engineering, and Recursive Feature Elimination (RFE); implemented multiple ML algorithms including Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Decision Tree, and Logistic Regression using Python and Scikit-learn; evaluated models on the NSL-KDD dataset to achieve high detection accuracy through model comparison and performance tuning.
+
+---
+
+## Hackathons
+
+**Catalyst Hackathon | github.com/Harshr24/Catalyst_hackathon**  
+**Objective:** Developed **EduMentor AI**, an interactive educational assistant designed to provide personalized study support, generate concise study notes, conduct quizzes, and offer interactive learning games for students.  
+**Methodology:** Built a real-time AI tutoring system using **Python**, **Streamlit**, and **LangChain**; integrated **Groq LLMs** for context-aware responses, implemented **conversation memory** for session continuity, and added voice input functionality. Delivered a fully functional prototype within the hackathon timeline demonstrating innovation, problem-solving, and full-stack development skills.
 
 ---
 
