@@ -1,54 +1,52 @@
-# 💫 About Me
+# About Me
 ## Name: Rai Harsh S.  
 **Email:** sanjaykumarr627@gmail.com |  
-**LinkedIn:** [Harsh Rai](https://linkedin.com/in/harsh-rai-20732527a) | **GitHub:** [github.com/Harshr24](https://github.com/Harshr24)  
+**LinkedIn:** [Harsh Rai](https://linkedin.com/in/harsh-rai-20732527a) |  
+**GitHub:** [github.com/Harshr24](https://github.com/Harshr24)
 
 ---
 
 ## Career Objective
-Aspiring Computer Science Engineer with a strong foundation in Java, Python, data structures, and algorithms. Proficient in machine learning, data analysis, database management, and cybersecurity. Seeking opportunities to leverage analytical and problem-solving skills in data analytics or cybersecurity roles to contribute to organizational growth.
+Aspiring Computer Science Engineer with a strong foundation in Java, Python, Data Structures, and Algorithms. Proficient in Machine Learning, Data Analysis, Database Management, and Cybersecurity. Seeking opportunities in Data Analytics, Machine Learning, or Cybersecurity roles to apply analytical and problem-solving skills while contributing to organizational growth.
 
 ---
 
-## Projects
-**SQL Project** | [GitHub Repository](https://github.com/Harshr24/SQL-Project)  
-**AI Project**  | [GitHub Repository](https://github.com/Harshr24/CS50_SQL_Project)
+## Technical Skills
+- **Programming Languages:** Java, Python, SQL  
+- **Machine Learning:** Scikit-learn, Feature Engineering, Model Evaluation  
+- **Data Analysis:** Pandas, NumPy, Data Preprocessing  
+- **Databases:** MySQL, PostgreSQL, DBMS  
+- **Cybersecurity:** Network Intrusion Detection, Anomaly Detection  
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook  
+---
+
+## PROJECTS
+
+**DBMS** | github.com/Harshr24/CS50_SQL_Project  
+**Objective:** Designed a robust database management system to efficiently store, query, and manage data across multiple real-world scenarios.  
+**Methodology:** Developed normalized database schemas and optimized SQL queries using PostgreSQL to improve data integrity, query performance, and scalability.
+
+**Artificial Intelligence** | github.com/Harshr24/CS50_AI_Project  
+**Objective:** Built an AI-based solution to address complex problem statements using machine learning techniques.  
+**Methodology:** Utilized Python, TensorFlow, and Scikit-learn to design, train, and evaluate machine learning models for classification and prediction tasks.
+
+**Machine Learning & Cybersecurity** | github.com/Harshr24/Network_intrusion_detection  
+**Objective:** Developed a machine learning-based Network Intrusion Detection System (NIDS) to accurately identify malicious network traffic and enhance cybersecurity threat detection.  
+**Methodology:** Applied data preprocessing, feature engineering, and Recursive Feature Elimination (RFE); implemented multiple ML algorithms including Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Decision Tree, and Logistic Regression using Python and Scikit-learn; evaluated models on the NSL-KDD dataset to achieve high detection accuracy through model comparison and performance tuning.
 
 ---
 
-## 🌐 Socials 
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-rai-20732527a)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Harshr24)
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Harshr24&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Harshr24&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshr24&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harshr24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harshr24&limit=5&theme=juicyfresh&combine_all_yearly contributions=true)
-
----
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshr24&theme=blue-green&hide_border=false&layout=compact)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Harshr24&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
