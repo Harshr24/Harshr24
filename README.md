@@ -1,4 +1,4 @@
-# About Me
+
 ## Rai Harsh S.  
 **Email:** sanjaykumarr627@gmail.com |  
 **LinkedIn:** [Harsh Rai](https://linkedin.com/in/harsh-rai-20732527a) |  
