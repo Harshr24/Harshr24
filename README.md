@@ -1,5 +1,5 @@
 # About Me
-## Name: Rai Harsh S.  
+## Rai Harsh S.  
 **Email:** sanjaykumarr627@gmail.com |  
 **LinkedIn:** [Harsh Rai](https://linkedin.com/in/harsh-rai-20732527a) |  
 **GitHub:** [github.com/Harshr24](https://github.com/Harshr24)
